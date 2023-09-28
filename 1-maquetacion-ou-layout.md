@@ -152,6 +152,6 @@ A **alineación dos círculos** é 😱😱😱 _lixeiramente desalineada_ 😱�
 
 ## 1.8 Ferramentas de maquetación
 
-- **Photoshop / GIMP**: útil para jpgs, bitmaps,  máscaras, tranparencias, efectos, filtros
-- **Illustrator / Inkscape**: vectores, svgs.
+- **Photoshop / GIMP**: útil para `jpg`s, bitmaps,  máscaras, transparencias, efectos, filtros.
+- **Illustrator / Inkscape**: vectores, `svg`s.
 - **Sketch**: a ferramenta máis moderna e recente. Arrasou na nova xeración de deseñadoras. Moi eficiente á hora de agrupar múltiples ideas nun só sitio; por exemplo, podemos ter nun mesmo _artboard_ unha vista máis orientada a un monitor, a un mobil e a unha tablet.
