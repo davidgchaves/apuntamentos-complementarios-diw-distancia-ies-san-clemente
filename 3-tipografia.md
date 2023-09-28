@@ -173,7 +173,7 @@ Dende vai uns anos está moi de moda utilizar fontes con ligaduras en programaci
 
 ### 3.6.6 Terminoloxía extra
 
-A terminoloxía asociada á tipografía é moi extensa. Dende [Free Typography Basics Cheatsheet: Anatomy, Classification & Special Terms](https://creativemarket.com/blog/typography-terms-cheatsheet) podes descargar un cheatsheet en pdf.
+A terminoloxía asociada á tipografía é moi extensa. Dende [Free Typography Basics Cheatsheet: Anatomy, Classification & Special Terms](https://creativemarket.com/blog/typography-terms-cheatsheet) podedes descargar un cheatsheet en pdf.
 
 ## 3.7 Fontes, web e rendemento
 
