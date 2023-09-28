@@ -89,7 +89,7 @@ Abordar só un problema á vez:
 
 ![](./img/circles-draw-your-eye.png)
 
-- Os círculos tenden a trapar a nosa atención máis que ningunha outra forma xeométrica (probablemente pola necesidade que temos de recoñecer a outros seres humanos: teoría dos ollos e facianas)
+- Os círculos tenden a atrapar a nosa atención máis que ningunha outra forma xeométrica (probablemente pola necesidade que temos de recoñecer a outros seres humanos: teoría dos ollos e facianas)
 
 ### 1.5.2 _Saccade_ ou movementos sacádicos
 
