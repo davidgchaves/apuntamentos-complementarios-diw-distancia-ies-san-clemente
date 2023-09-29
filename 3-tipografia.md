@@ -138,6 +138,8 @@ Cita de Geoff Graham. Tanto el coma Chris Coyier (creador de [CSS Tricks](https:
 
 O **kerning** (non atopei unha tradución ao galego) é o espazo existente entre dúas letras consecutivas (`letter-spacing` en termos CSS).
 
+![Exemplo de _kerning_](./img/kerning.png)
+
 Un **exemplo dramático de _kerning_ erróneo** 🤦‍♀️🤦‍♀️ que adquiriu categoría de meme 👇🏿👇🏿
 
 ![_click_ ou _dick_](./img/kerning-gone-wrong.png)
