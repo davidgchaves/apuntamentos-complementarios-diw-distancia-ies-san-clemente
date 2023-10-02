@@ -82,7 +82,7 @@ A web [Fontjoy](https://fontjoy.com/) automatiza a tarefa de emparellado de font
 Algunhas posibles parellas:
 
 - Unha **display** cunha **sans-serif**.
-- Unha **dserif** cunha **sans-serif**.
+- Unha **serif** cunha **sans-serif**.
 
 ## 3.4 O libro "Typography for Lawyers"
 
