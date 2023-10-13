@@ -34,7 +34,7 @@ As **directrices ou _guidelines_ WACG** son **moi extensas e detalladas** e as v
 
 ### 0.3.4 WebAIM
 
-[WebAIM]() proporciona unha lista moi útil coas súas recomendacións (baseadas por completo nas directrices ou _guidelines_ da WACG).
+[WebAIM](https://webaim.org/standards/wcag/checklist) proporciona unha lista moi útil coas súas recomendacións (baseadas por completo nas directrices ou _guidelines_ da WACG).
 
 ### 0.3.5 Exemplo WebAIM
 

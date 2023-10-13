@@ -8,6 +8,6 @@
 - [1. Lectores de pantalla](./1-lectores-de-pantalla.md)
 - [2. HTML `a11y`](./2-html-a11y.md)
 - [3. ARIA (Accessible Rich Internet Applications)](./3-ARIA-aka-accessible-rich-internet-applications.md)
-- [4. Xestión do foco (FALTA)](./4-xestion-do-foco.md)
+- [4. Xestión do foco](./4-xestion-do-foco.md)
 - [5. Consideracións visuais](./5-consideracions-visuais.md)
 - [6. Ferramentas](./6-ferramentas.md)
