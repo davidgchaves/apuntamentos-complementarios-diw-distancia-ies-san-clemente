@@ -54,3 +54,13 @@ WebAIM especifica que un **sitio web accesíbel** debe ser:
 ## 0.4 Pro-tip: long live 🖖 WebAIM
 
 Na práctica, sóese favorecer o uso de WebAIM, mentres WCAG fica como **referencia**.
+
+## 0.5 Dispositivos de navegación
+
+Máis aló da combinación **⌨️ + 🖱**, debemos considerar os seguintes dispositivos:
+
+- [Head Wand](http://tecnologiacaam.blogspot.com/p/head-wand.html): é un casco que integra unha vara; ideal para as persoas que unicamente teñen control do movemento da súa cabeza.
+- [Mouth Stick](https://www.etsy.com/listing/64832134/mouthstick-stylus): é un lápis táctil que se manexa coa boca.
+- [Single Switch ou Switch Control](https://www.24a11y.com/2018/i-used-a-switch-control-for-a-day/): un único botón.
+- [Lector de pantalla](http://accesibilidadweb.dlsi.ua.es/?menu=lectores): toda a sección 1 está dedicada a eles.
+- Únicamente teclado: opción a veces utilizada fora do ámbito `a11y` por usuario avanzados.
