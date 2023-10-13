@@ -4,7 +4,7 @@
 
 ## Índice
 
-- [0. Introdución á `a11y` (FALTA)](./0-introducion-a-a11y.md)
+- [0. Introdución á `a11y`](./0-introducion-a-a11y.md)
 - [1. Lectores de pantalla](./1-lectores-de-pantalla.md)
 - [2. HTML `a11y`](./2-html-a11y.md)
 - [3. ARIA (Accessible Rich Internet Applications)](./3-ARIA-aka-accessible-rich-internet-applications.md)
