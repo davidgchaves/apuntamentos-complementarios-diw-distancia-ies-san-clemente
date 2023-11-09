@@ -38,7 +38,7 @@ Lector de pantalla gratuíto que podes descargar [aquí](https://www.nvaccess.or
 
 ## 1.4 Gotcha! 😱
 
-Os **lectores de pantalla carecen dunha especificación estadarizada**. Cada software interpreta o que considera máis adecuado.
+Os **lectores de pantalla carecen dunha especificación estandarizada**. Cada software interpreta o que considera máis adecuado.
 
 ## 1.5 Imaxes
 
